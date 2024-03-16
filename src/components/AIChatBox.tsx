@@ -31,8 +31,8 @@ export default function AIChatBox({ open, onClose }: Props) {
   }, [messages]);
 
   useEffect(() => {
-    if(open){
-        inputRef.current?.focus()
+    if (open) {
+      inputRef.current?.focus();
     }
   }, [open]);
 
