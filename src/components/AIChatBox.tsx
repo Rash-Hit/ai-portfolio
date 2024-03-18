@@ -101,7 +101,7 @@ export default function AIChatBox({ open, onClose }: Props) {
           />
           <button
             className="grow rounded border bg-background px-3 py-2 disabled:opacity-50"
-            disabled={isLoading || input.length === 0}
+            disabled={input.length === 0}
             type="submit"
             title="Submit message"
           >
