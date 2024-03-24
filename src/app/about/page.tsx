@@ -52,7 +52,7 @@ export default function Page() {
             >
               Video Calling App
             </a>{" "}
-            - End to End Video Calling application. &nbsp; &nbsp; [Next.js]
+            - End to End Video Calling application.
           </li>
           <li>
             <Link
@@ -61,7 +61,7 @@ export default function Page() {
             >
               Job Board
             </Link>{" "}
-            - Platform for Jobs &nbsp; &nbsp; &nbsp; &nbsp; [Next.js]
+            - Platform for Jobs
           </li>
 
           <li>
@@ -71,7 +71,7 @@ export default function Page() {
             >
               Dialogue Finder (Fun Project)
             </Link>{" "}
-            - Will Give Bollywood Dialogues &nbsp; &nbsp; &nbsp; &nbsp; [Next.js]
+            - Will Give Bollywood Dialogues
           </li>
         </ul>
       </section>
