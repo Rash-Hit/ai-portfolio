@@ -63,6 +63,16 @@ export default function Page() {
             </Link>{" "}
             - Platform for Jobs &nbsp; &nbsp; &nbsp; &nbsp; [Next.js]
           </li>
+
+          <li>
+            <Link
+              href="https://gpt3-quote-generator-nextjs.vercel.app/"
+              className="text-primary hover:underline"
+            >
+              Dialogue Finder (Fun Project)
+            </Link>{" "}
+            - Will Give Bollywood Dialogues &nbsp; &nbsp; &nbsp; &nbsp; [Next.js]
+          </li>
         </ul>
       </section>
       <hr className="border-muted" />
